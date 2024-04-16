@@ -1,0 +1,6 @@
+__pycache__
+.env
+env
+similarity
+router/similarity.pkl
+index_df
